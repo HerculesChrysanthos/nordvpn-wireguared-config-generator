@@ -12,8 +12,8 @@ This tool allows you to generate a fully working WireGuard .conf file using your
 📦 Files Included
 
 | File Name                   | Description                                          |
-| --------------------------- | ---------------------------------------------------- |
-| `nordvpn_wg_config.sh`      | Bash script to run the config generator              |
+|-----------------------------| ---------------------------------------------------- |
+| `run.sh`                    | Bash script to run the config generator              |
 | `generate_config.py`        | Python script that fetches credentials + server info |
 | `wireguard_config.template` | Template used to create final WireGuard config       |
 | `wg0.conf`                  | Final output configuration (created after run)       |
