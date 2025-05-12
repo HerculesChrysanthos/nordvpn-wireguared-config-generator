@@ -1,6 +1,7 @@
 📡 NordVPN WireGuard Config Generator
 
 This tool allows you to generate a fully working WireGuard .conf file using your NordVPN API access token. You can either select a specific server (like gr67.nordvpn.com) or let the script choose the best recommended one for you.
+
 ✅ Features
 
 - Supports custom server selection (e.g., us1234.nordvpn.com)
